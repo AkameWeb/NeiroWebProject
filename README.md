@@ -1,8 +1,11 @@
 NeuroMusic - Умный поиск музыки через нейросеть 🎵
-(https://img.shields.io/badge/PHP-8.2%252B-777BB4?logo=php)
-(https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai)
-(https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
-(https://img.shields.io/badge/License-MIT-green)
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2%252B-777BB4?logo=php">
+  <img src="https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai">
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</div>
+
 
 NeuroMusic - это современное веб-приложение для интеллектуального поиска музыки с использованием искусственного интеллекта. Просто опишите песню своими словами, и нейросеть найдет подходящие треки!
 
@@ -126,8 +129,8 @@ bash
 bash
 # Измените порты в docker-compose.yml
 ports:
-  - "8081:80"  # вместо 8080
-Нет доступа к файлам
+"8081:80"  # вместо 8080
+
 
 bash
 # Настройте File Sharing в Docker Desktop
